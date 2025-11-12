@@ -2,11 +2,9 @@
 
 Developed with Unreal Engine 5
 
-### Distributon of task (as of November 11):
+Project Installation Guide
+1. Install Unreal Engine version 5.6.1
 
+2. Clone the repository to your local computer
 
-Angelina Zhumadilova - project setup and environment creation, building the Unreal Engine Project and managed the courses page
-
-Ander Carrasco Del Rio - made windows built, participated in developing the enviromental idea, helped manage the project’s course page
-
-Sanna Mitt - captured illustrative screenshot, participated in developing the environmental idea, helped prepare materials for the milestone submission
+3. Open Unreal Engine -> click Browse -> select the file ProceduralUnderwater.uproject -> play the scene
